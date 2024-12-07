@@ -6,4 +6,4 @@ This repository contains coding assignments solutions written in C for the 1st s
 
 
 <br>
-for any code related queries  :- connectforqueriess@gmail.com
+ <strong>for any code related queries  :- connectforqueriess@gmail.com</strong>
