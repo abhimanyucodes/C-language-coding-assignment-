@@ -11,9 +11,9 @@ void main()
     }
       else if(num2>num1 && num2>num3)
       {
-        printf("%d id Greater",num2);
+        printf("%d is Greater",num2);
       }
       else{
-        printf("%d id Greater",num3);
+        printf("%d is Greater",num3);
       }
 }
