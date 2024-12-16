@@ -5,5 +5,5 @@ void main(){
     printf("Temperature in celsius =  ");
     scanf("%f",&Celsius);
     fahrenheit = (Celsius*9/5)+32;
-    printf("Temperature in fahrenheit =  %f",fahrenheit);
+    printf("Temperature in fahrenheit =  %.2f",fahrenheit);
 }
