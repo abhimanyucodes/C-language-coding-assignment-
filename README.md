@@ -1,9 +1,28 @@
 # C Language Coding Assignments (1st Semester BTech - Computer Science)
 
-<br>
+This repository contains **C programming assignments** solutions designed for **1st Semester BTech - Computer Science** students. It includes a variety of problems focused on fundamental concepts such as:
 
-This repository contains coding assignments solutions written in C for the 1st semester of BTech in Computer Science. It includes various problems and programs focused on fundamental concepts such as  if else , loops.The code is organized and well-commented to help understand the core principles of C programming.
+- **If-Else Statements**
+- **Loops**
+- **Arrays**
+- **Strings**
+- **Functions**
+- **Recursion**
+- **Pointers**
+- **Basic Algorithms**
+- **User Defined Data Types (UDTs)**
+- **File Handling**
 
+The code is well-organized and **commented** to help understand the core principles of **C programming**, making it easier to follow for beginners and intermediate learners alike.
 
-<br>
- <strong>for any code related queries  :- connectforqueriess@gmail.com</strong>
+---
+
+### **For Code-Related Queries:**
+
+If you have any questions or need assistance with any of the assignments, feel free to reach out at:
+
+**Email**: [connectforqueriess@gmail.com](mailto:connectforqueriess@gmail.com)
+
+---
+
+Happy Coding! 🚀
